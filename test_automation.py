@@ -13,7 +13,7 @@ ROOT_DIR = Path(__file__).resolve().parent.parent
 TESTS_DIR = ROOT_DIR / "test_automation"
 
 DEFAULT_EXCEL_CANDIDATES = [
-    "D:/sllit 3rd year 2nd semester/ITPM/Assignment for test automation/Assignment 1 - Test cases.xlsx",
+    "D:/sllit 3rd year 2nd semester/ITPM/Assignment for test automation/IT23333284.xlsx",
 ]
 
 DEFAULT_SHEET_NAME = " Test cases"
